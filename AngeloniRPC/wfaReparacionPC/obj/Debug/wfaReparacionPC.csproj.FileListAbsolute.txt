@@ -1,0 +1,13 @@
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\bin\Debug\wfaReparacionPC.exe.config
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\bin\Debug\wfaReparacionPC.exe
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\bin\Debug\wfaReparacionPC.pdb
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.Form1.resources
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.Properties.Resources.resources
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.csproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.exe
+c:\users\martin\documents\visual studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.pdb
+C:\Users\martin\Documents\Visual Studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.Formularios.Cliente.resources
+C:\Users\martin\Documents\Visual Studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\bin\Debug\ReparacionPC.mdf
+C:\Users\martin\Documents\Visual Studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\bin\Debug\ReparacionPC_log.ldf
+C:\Users\martin\Documents\Visual Studio 2017\Projects\wfaReparacionPC\wfaReparacionPC\obj\Debug\wfaReparacionPC.Formularios.Reparar.resources
